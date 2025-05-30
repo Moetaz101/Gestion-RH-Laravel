@@ -144,10 +144,6 @@ Les contributions au projet sont les bienvenues. Veuillez suivre ces étapes :
 4. Pousser vers la branche
 5. Ouvrir une Pull Request
 
-## Licence
-
-Ce projet est sous licence [À SPÉCIFIER]
-
 ## Contact
 
 Pour toute question ou suggestion concernant ce projet, veuillez contacter moetazbelhadj15@gmail.com .
